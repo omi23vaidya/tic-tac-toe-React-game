@@ -5,6 +5,6 @@ Steps to run this game:
 2.	Clone this repository using the web url of the project
 3.	In the terminal, navigate to tic-tac-toe-React-game folder
 4.	Run command: npm install
-5.	Then type: npm start
+5.	Finally, type npm start and hit Enter
 
 A tab will open in your default web browser and you can enjoy the game 😊
